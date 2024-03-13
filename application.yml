@@ -1,4 +1,4 @@
-Server:
+spring:
   application:
     name: DEFAULT-CONFIG
     
